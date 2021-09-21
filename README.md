@@ -1,4 +1,4 @@
-# Putting It All Together: Object Orientation Basics
+learn spec/02_shoe_spec.rb# Putting It All Together: Object Orientation Basics
 
 ## Learning Goals
 
